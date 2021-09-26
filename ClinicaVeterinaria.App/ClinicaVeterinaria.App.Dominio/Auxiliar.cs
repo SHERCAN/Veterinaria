@@ -11,5 +11,4 @@
 
 
 public class Auxiliar : Persona{
-	public object Id ;
 }

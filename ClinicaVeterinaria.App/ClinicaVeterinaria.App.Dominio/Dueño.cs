@@ -11,5 +11,4 @@
 
 
 public class Dueño : Persona{
-	public object Id ;
 }

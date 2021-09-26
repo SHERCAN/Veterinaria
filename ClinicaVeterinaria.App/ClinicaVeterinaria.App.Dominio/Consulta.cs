@@ -9,11 +9,14 @@
 //
 //
 
-
-public class Consulta {
-	public object Anotacion ;
-	public object Lista Medicamentos ;
-	public object Veterinario ;
-	public object Auxiliar ;
-	public object Fecha ;
+namespace ClinicaVeterinaria.App.Dominio
+{
+    public class Consulta
+    {
+        public string Anotacion { get; set; }
+        public string ListaMedicamentos { get; set; }
+        public Veterinario Veterinario { get; set; }
+        public Auxiliar Auxiliar { get; set; }
+        public string Fecha { get; set; }
+    }
 }

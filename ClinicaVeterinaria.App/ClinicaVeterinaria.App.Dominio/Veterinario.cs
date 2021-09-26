@@ -11,6 +11,4 @@
 
 
 public class Veterinario : Persona{
-	public object Id ;
-	public object Horario Dia ;
 }
