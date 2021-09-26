@@ -14,7 +14,7 @@ namespace ClinicaVeterinaria.App.Persistencia
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder
-                    .UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = HospiEnCasa.Data");
+                    .UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = ClinicaVeterinaria.Data");
             }
         }
     }
