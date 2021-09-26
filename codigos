@@ -1,0 +1,2 @@
+dotnet ef migrations add Entidades --startup-project ..\ClinicaVeterinaria.Consola\
+dotnet ef database update --startup-project ..\ClinicaVeterinaria.Consola\
