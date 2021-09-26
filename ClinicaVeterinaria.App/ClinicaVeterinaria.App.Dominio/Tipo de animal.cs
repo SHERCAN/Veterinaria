@@ -10,7 +10,9 @@
 //
 
 
-public class Tipo de animal {
-	public object Perro ;
-	public object Gato ;
+namespace ClinicaVeterinaria.App.Dominio{
+public enum TipoDeAnimal{
+        gato,
+        perro
+    }
 }

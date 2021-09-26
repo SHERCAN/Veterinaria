@@ -9,7 +9,7 @@
 //
 //
 
-
+namespace ClinicaVeterinaria.App.Dominio{
 public class Persona {
     public int Id { get; set; }
     public int Cedula { get; set; }
@@ -18,4 +18,5 @@ public class Persona {
 	public string Celular{ get;set;}
 	public string Direccion { get;set;}
 	public string Ciudad { get;set;}
+}
 }
