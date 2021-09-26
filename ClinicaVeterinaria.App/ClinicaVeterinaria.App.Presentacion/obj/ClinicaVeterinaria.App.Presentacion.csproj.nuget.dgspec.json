@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Mi unidad\\PERSONALES\\MINTIC\\Programming\\Cliclo3\\ProyectoInPr\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Presentacion\\ClinicaVeterinaria.App.Presentacion.csproj": {}
+  },
+  "projects": {
+    "G:\\Mi unidad\\PERSONALES\\MINTIC\\Programming\\Cliclo3\\ProyectoInPr\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Presentacion\\ClinicaVeterinaria.App.Presentacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Mi unidad\\PERSONALES\\MINTIC\\Programming\\Cliclo3\\ProyectoInPr\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Presentacion\\ClinicaVeterinaria.App.Presentacion.csproj",
+        "projectName": "ClinicaVeterinaria.App.Presentacion",
+        "projectPath": "G:\\Mi unidad\\PERSONALES\\MINTIC\\Programming\\Cliclo3\\ProyectoInPr\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Presentacion\\ClinicaVeterinaria.App.Presentacion.csproj",
+        "packagesPath": "C:\\Users\\Yesid Farfan\\.nuget\\packages\\",
+        "outputPath": "G:\\Mi unidad\\PERSONALES\\MINTIC\\Programming\\Cliclo3\\ProyectoInPr\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Presentacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yesid Farfan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
