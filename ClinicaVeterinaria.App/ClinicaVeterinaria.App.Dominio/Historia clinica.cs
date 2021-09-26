@@ -9,8 +9,10 @@
 //
 //
 
-namespace ClinicaVeterinaria.App.Dominio{
-public class HistoriaClinica {
-    public string Historia { get; set; }
-}
+namespace ClinicaVeterinaria.App.Dominio
+{
+    public class HistoriaClinica
+    {
+        public string Historia { get; set; }
+    }
 }

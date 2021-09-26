@@ -9,7 +9,9 @@
 //
 //
 
-namespace ClinicaVeterinaria.App.Dominio{
-public class Administrador : Persona{
-}
+namespace ClinicaVeterinaria.App.Dominio
+{
+    public class Administrador : Persona
+    {
+    }
 }
