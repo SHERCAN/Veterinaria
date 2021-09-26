@@ -4,6 +4,56 @@
     "C:\\Users\\Sofi\\Documents\\GitHub\\Repositorios\\Veterinaria\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Persistencia\\ClinicaVeterinaria.App.Persistencia.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Sofi\\Documents\\GitHub\\Repositorios\\Veterinaria\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Dominio\\ClinicaVeterinaria.App.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sofi\\Documents\\GitHub\\Repositorios\\Veterinaria\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Dominio\\ClinicaVeterinaria.App.Dominio.csproj",
+        "projectName": "ClinicaVeterinaria.App.Dominio",
+        "projectPath": "C:\\Users\\Sofi\\Documents\\GitHub\\Repositorios\\Veterinaria\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Dominio\\ClinicaVeterinaria.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Sofi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sofi\\Documents\\GitHub\\Repositorios\\Veterinaria\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sofi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Sofi\\Documents\\GitHub\\Repositorios\\Veterinaria\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Persistencia\\ClinicaVeterinaria.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -17,14 +67,18 @@
           "C:\\Users\\Sofi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netstandard2.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "projectReferences": {}
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\Sofi\\Documents\\GitHub\\Repositorios\\Veterinaria\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Dominio\\ClinicaVeterinaria.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Sofi\\Documents\\GitHub\\Repositorios\\Veterinaria\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Dominio\\ClinicaVeterinaria.App.Dominio.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -34,7 +88,7 @@
         }
       },
       "frameworks": {
-        "net5.0": {
+        "netstandard2.1": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -55,6 +109,21 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"

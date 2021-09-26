@@ -1,0 +1,9 @@
+C:\Users\Sofi\Documents\GitHub\Repositorios\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\bin\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.deps.json
+C:\Users\Sofi\Documents\GitHub\Repositorios\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\bin\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.dll
+C:\Users\Sofi\Documents\GitHub\Repositorios\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\bin\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.pdb
+C:\Users\Sofi\Documents\GitHub\Repositorios\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Sofi\Documents\GitHub\Repositorios\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Sofi\Documents\GitHub\Repositorios\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.AssemblyInfo.cs
+C:\Users\Sofi\Documents\GitHub\Repositorios\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Sofi\Documents\GitHub\Repositorios\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.dll
+C:\Users\Sofi\Documents\GitHub\Repositorios\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.pdb
