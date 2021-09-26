@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Mi unidad\\PERSONALES\\MINTIC\\Programming\\Cliclo3\\ProyectoInPr\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Console\\ClinicaVeterinaria.App.Console.csproj": {}
+    "C:\\Users\\Sofi\\Documents\\GitHub\\Repositorios\\Veterinaria\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Console\\ClinicaVeterinaria.App.Console.csproj": {}
   },
   "projects": {
-    "G:\\Mi unidad\\PERSONALES\\MINTIC\\Programming\\Cliclo3\\ProyectoInPr\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Console\\ClinicaVeterinaria.App.Console.csproj": {
+    "C:\\Users\\Sofi\\Documents\\GitHub\\Repositorios\\Veterinaria\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Console\\ClinicaVeterinaria.App.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Mi unidad\\PERSONALES\\MINTIC\\Programming\\Cliclo3\\ProyectoInPr\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Console\\ClinicaVeterinaria.App.Console.csproj",
+        "projectUniqueName": "C:\\Users\\Sofi\\Documents\\GitHub\\Repositorios\\Veterinaria\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Console\\ClinicaVeterinaria.App.Console.csproj",
         "projectName": "ClinicaVeterinaria.App.Console",
-        "projectPath": "G:\\Mi unidad\\PERSONALES\\MINTIC\\Programming\\Cliclo3\\ProyectoInPr\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Console\\ClinicaVeterinaria.App.Console.csproj",
-        "packagesPath": "C:\\Users\\Yesid Farfan\\.nuget\\packages\\",
-        "outputPath": "G:\\Mi unidad\\PERSONALES\\MINTIC\\Programming\\Cliclo3\\ProyectoInPr\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Console\\obj\\",
+        "projectPath": "C:\\Users\\Sofi\\Documents\\GitHub\\Repositorios\\Veterinaria\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Console\\ClinicaVeterinaria.App.Console.csproj",
+        "packagesPath": "C:\\Users\\Sofi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sofi\\Documents\\GitHub\\Repositorios\\Veterinaria\\ClinicaVeterinaria.App\\ClinicaVeterinaria.App.Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yesid Farfan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sofi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net5.0": {
-            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -36,23 +35,18 @@
       },
       "frameworks": {
         "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
         }
       }
     }
