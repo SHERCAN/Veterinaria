@@ -17,3 +17,12 @@ G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinar
 G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.csproj.CoreCompileInputs.cache
 G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.dll
 G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.pdb
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\bin\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.deps.json
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\bin\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.dll
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\bin\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.pdb
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.AssemblyInfo.cs
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.dll
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.pdb

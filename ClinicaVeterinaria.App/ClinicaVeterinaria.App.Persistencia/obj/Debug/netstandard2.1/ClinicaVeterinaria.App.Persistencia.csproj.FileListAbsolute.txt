@@ -23,3 +23,15 @@ G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinar
 G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Persistencia\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Persistencia.csproj.CopyComplete
 G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Persistencia\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Persistencia.dll
 G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Persistencia\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Persistencia.pdb
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Persistencia\bin\Debug\netstandard2.1\ClinicaVeterinaria.App.Persistencia.deps.json
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Persistencia\bin\Debug\netstandard2.1\ClinicaVeterinaria.App.Persistencia.dll
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Persistencia\bin\Debug\netstandard2.1\ClinicaVeterinaria.App.Persistencia.pdb
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Persistencia\bin\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.dll
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Persistencia\bin\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.pdb
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Persistencia\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Persistencia\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Persistencia\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Persistencia.AssemblyInfo.cs
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Persistencia\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Persistencia\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Persistencia.csproj.CopyComplete
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Persistencia\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Persistencia.dll
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Persistencia\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Persistencia.pdb
