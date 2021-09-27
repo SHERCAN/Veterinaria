@@ -1,4 +1,5 @@
 ﻿using System;
+using ClinicaVeterinaria.App.Dominio;
 
 namespace ClinicaVeterinaria.Consola
 {
