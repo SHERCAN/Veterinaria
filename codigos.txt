@@ -1,2 +1,2 @@
-dotnet ef migrations add Entidades --startup-project ..\ClinicaVeterinaria.Consola\
+dotnet ef migrations add "nombre que se le da a la migracion" --startup-project ..\ClinicaVeterinaria.Consola\
 dotnet ef database update --startup-project ..\ClinicaVeterinaria.Consola\
