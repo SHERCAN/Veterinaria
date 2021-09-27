@@ -7,3 +7,13 @@ C:\Users\Sofi\Documents\GitHub\Repositorios\Veterinaria\ClinicaVeterinaria.App\C
 C:\Users\Sofi\Documents\GitHub\Repositorios\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Sofi\Documents\GitHub\Repositorios\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.dll
 C:\Users\Sofi\Documents\GitHub\Repositorios\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.pdb
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\bin\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.deps.json
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\bin\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.dll
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\bin\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.pdb
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.csproj.AssemblyReference.cache
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.AssemblyInfoInputs.cache
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.AssemblyInfo.cs
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.csproj.CoreCompileInputs.cache
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.dll
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Dominio\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Dominio.pdb
