@@ -1,2 +1,14 @@
-dotnet ef migrations add "nombre que se le da a la migracion" --startup-project ..\ClinicaVeterinaria.Consola\
+/// Migrar
+dotnet ef migrations add "nombre que se le da a la migracion" --startup-project ..\ClinicaVeterinaria.Consola\ 
+
+///Actualizar Migracion
 dotnet ef database update --startup-project ..\ClinicaVeterinaria.Consola\
+
+/// borrar DB
+USE master;
+GO
+ALTER DATABASE HospitalEnCasaData SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+GO
+DROP DATABASE HospitalEnCasaData;
+GO
+///
