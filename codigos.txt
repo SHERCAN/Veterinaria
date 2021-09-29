@@ -14,3 +14,5 @@ GO
 ///
 ///Crear el proyecto de paginas JsonWebTokens
 dotnet new webapp -o ClinicaVeterinaria.App.Presentacion
+///Crear nueva pagina Web dentro de la carpeta PaginasProyecto
+dotnet new page -n MenuUsurario -na ClinicaVeterinaria.App.Presentacion.Pages -o .\Pages\PaginasProyecto
