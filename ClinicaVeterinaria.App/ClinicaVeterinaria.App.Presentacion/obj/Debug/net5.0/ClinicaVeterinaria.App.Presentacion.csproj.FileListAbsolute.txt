@@ -38,3 +38,10 @@ G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinar
 G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\ClinicaVeterinaria.App.Presentacion.pdb
 G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\ClinicaVeterinaria.App.Presentacion.genruntimeconfig.cache
 G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\ClinicaVeterinaria.App.Presentacion.csproj.CopyComplete
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\Razor\Pages\PaginasProyecto\ConsultarHistoriaClinica.cshtml.g.cs
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\Razor\Pages\PaginasProyecto\MenuAdministrador.cshtml.g.cs
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\Razor\Pages\PaginasProyecto\MenuUsurario.cshtml.g.cs
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\Razor\Pages\PaginasProyecto\RegistrarMascota.cshtml.g.cs
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\Razor\Pages\PaginasProyecto\RegistroNuevoUsuario.cshtml.g.cs
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\Razor\Pages\PaginasProyecto\SolicitarCita.cshtml.g.cs
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\Razor\Pages\PaginasProyecto\UsuarioRegistrado.cshtml.g.cs
