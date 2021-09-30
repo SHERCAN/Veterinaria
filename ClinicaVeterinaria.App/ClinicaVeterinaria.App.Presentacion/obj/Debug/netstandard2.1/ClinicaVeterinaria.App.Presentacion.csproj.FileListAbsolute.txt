@@ -1,0 +1,5 @@
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Presentacion.csproj.AssemblyReference.cache
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Presentacion.AssemblyInfoInputs.cache
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Presentacion.AssemblyInfo.cs
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\netstandard2.1\ClinicaVeterinaria.App.Presentacion.csproj.CoreCompileInputs.cache
