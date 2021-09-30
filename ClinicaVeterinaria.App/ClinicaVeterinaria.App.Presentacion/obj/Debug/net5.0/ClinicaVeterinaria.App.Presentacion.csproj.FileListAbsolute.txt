@@ -50,3 +50,4 @@ G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinar
 G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\Razor\Pages\PaginasProyecto\RegistroAnotaciones.cshtml.g.cs
 G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\Razor\Pages\PaginasProyecto\RegistroAuxiliar.cshtml.g.cs
 G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\Razor\Pages\PaginasProyecto\RegistroVeterinario.cshtml.g.cs
+C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\ClinicaVeterinaria.App.Presentacion.pdb
