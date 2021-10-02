@@ -11,12 +11,15 @@ ALTER DATABASE HospitalEnCasaData SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
 GO
 DROP DATABASE HospitalEnCasaData;
 GO
-///
-///Crear el proyecto de paginas JsonWebTokens
-dotnet new webapp -o ClinicaVeterinaria.App.Presentacion
+
 ///Crear nueva pagina Web dentro de la carpeta PaginasProyecto
 dotnet new page -n MenuUsurario -na ClinicaVeterinaria.App.Presentacion.Pages -o .\Pages\PaginasProyecto
+
 ///Crear capa de Dominio
 dotnet new classlib -o ClinicaVeterinaria.App.Dominio
+
 ///Crear capa de Persistencia
 dotnet new classlib -o ClinicaVeterinaria.App.Persistencia
+
+///Crear el proyecto de paginas JsonWebTokens
+dotnet new webapp -o ClinicaVeterinaria.App.Presentacion
