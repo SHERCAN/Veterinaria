@@ -26,3 +26,10 @@ dotnet new classlib -o ClinicaVeterinaria.App.Persistencia
 
 ///Crear el proyecto de paginas JsonWebTokens
 dotnet new webapp -o ClinicaVeterinaria.App.Presentacion
+
+///añadir referencia a otros proyectos()
+dotnet add reference ..\ClinicaVeterinaria.Consola\
+
+
+
+
