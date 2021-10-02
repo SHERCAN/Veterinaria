@@ -15,6 +15,9 @@ GO
 ///Crear nueva pagina Web dentro de la carpeta PaginasProyecto
 dotnet new page -n MenuUsurario -na ClinicaVeterinaria.App.Presentacion.Pages -o .\Pages\PaginasProyecto
 
+///Ayuda crear capas
+dotnet new -h
+
 ///Crear capa de Dominio
 dotnet new classlib -o ClinicaVeterinaria.App.Dominio
 
