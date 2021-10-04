@@ -1,0 +1,39 @@
+//URL
+https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new-sdk-templates
+
+Templates	Short name	Language	Tags	Introduced
+Console Application	console	[C#], F#, VB	Common/Console	1.0
+Class library	classlib	[C#], F#, VB	Common/Library	1.0
+WPF Application	wpf	[C#], VB	Common/WPF	3.0 (5.0 for VB)
+WPF Class library	wpflib	[C#], VB	Common/WPF	3.0 (5.0 for VB)
+WPF Custom Control Library	wpfcustomcontrollib	[C#], VB	Common/WPF	3.0 (5.0 for VB)
+WPF User Control Library	wpfusercontrollib	[C#], VB	Common/WPF	3.0 (5.0 for VB)
+Windows Forms (WinForms) Application	winforms	[C#], VB	Common/WinForms	3.0 (5.0 for VB)
+Windows Forms (WinForms) Class library	winformslib	[C#], VB	Common/WinForms	3.0 (5.0 for VB)
+Worker Service	worker	[C#]	Common/Worker/Web	3.0
+Unit Test Project	mstest	[C#], F#, VB	Test/MSTest	1.0
+NUnit 3 Test Project	nunit	[C#], F#, VB	Test/NUnit	2.1.400
+NUnit 3 Test Item	nunit-test	[C#], F#, VB	Test/NUnit	2.2
+xUnit Test Project	xunit	[C#], F#, VB	Test/xUnit	1.0
+Razor Component	razorcomponent	[C#]	Web/ASP.NET	3.0
+Razor Page	page	[C#]	Web/ASP.NET	2.0
+MVC ViewImports	viewimports	[C#]	Web/ASP.NET	2.0
+MVC ViewStart	viewstart	[C#]	Web/ASP.NET	2.0
+Blazor Server App	blazorserver	[C#]	Web/Blazor	3.0
+Blazor WebAssembly App	blazorwasm	[C#]	Web/Blazor/WebAssembly	3.1.300
+ASP.NET Core Empty	web	[C#], F#	Web/Empty	1.0
+ASP.NET Core Web App (Model-View-Controller)	mvc	[C#], F#	Web/MVC	1.0
+ASP.NET Core Web App	webapp, razor	[C#]	Web/MVC/Razor Pages	2.2, 2.0
+ASP.NET Core with Angular	angular	[C#]	Web/MVC/SPA	2.0
+ASP.NET Core with React.js	react	[C#]	Web/MVC/SPA	2.0
+ASP.NET Core with React.js and Redux	reactredux	[C#]	Web/MVC/SPA	2.0
+Razor Class Library	razorclasslib	[C#]	Web/Razor/Library/Razor Class Library	2.1
+ASP.NET Core Web API	webapi	[C#], F#	Web/WebAPI	1.0
+ASP.NET Core gRPC Service	grpc	[C#]	Web/gRPC	3.0
+dotnet gitignore file	gitignore		Config	3.0
+global.json file	globaljson		Config	2.0
+NuGet Config	nugetconfig		Config	1.0
+Dotnet local tool manifest file	tool-manifest		Config	3.0
+Web Config	webconfig		Config	1.0
+Solution File	sln		Solution	1.0
+Protocol Buffer File	proto		Web/gRPC	3.0
