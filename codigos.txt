@@ -12,8 +12,8 @@ GO
 DROP DATABASE HospitalEnCasaData;
 GO
 
-///Crear nueva pagina Web dentro de la carpeta PaginasProyecto
-dotnet new page -n MenuUsurario -na ClinicaVeterinaria.App.Presentacion.Pages -o .\Pages\PaginasProyecto
+///Crear nueva pagina RAZOR
+dotnet new page -n Consulta -na ClinicaVeterinaria.App.Presentacion.Pages -o .\Pages\Page
 
 ///Ayuda crear capas
 dotnet new -h
@@ -34,8 +34,10 @@ dotnet add reference ..\ClinicaVeterinaria.Consola\
 dotnet add reference ..\web.App.Dominio\
 
 ///Frontend ref a Persistencia, se crean 2 plantillas Startup.cs y Program.cs
-///Frontend Startup - implementar servicio de persistencia en frontend en metodo ConfigureServices (public void ConfigureServices(IServiceCollection services))
+///Frontend Startup - implementar servicio de persistencia en frontend en metodo ConfigureServices linea 24-25 (public void ConfigureServices(IServiceCollection services))
  services.AddSingleton<IRepositorioSaludos, RepositorioSaludosMemoria>();
+ 
+ ///
 
 
 
