@@ -60,8 +60,27 @@ html {
 
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 60px;
+  margin-bottom: 10px;
+  background-image: url('https://cdn.aarp.net/content/dam/aarp/home-and-family/your-home/2019/05/1140-cavalier-king-charles-spaniel-esp.imgcache.rev.web.900.518.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: scroll;
+  background-color: rgba(255,255,255,0.6);
+  background-blend-mode: lighten;
 }
+nav {
+  /* Margin bottom by footer height */
+  margin-bottom: 10px;
+  background-image: url('https://cdn.aarp.net/content/dam/aarp/home-and-family/your-home/2019/05/1140-cavalier-king-charles-spaniel-esp.imgcache.rev.web.900.518.jpg')no-repeat center center fixed;
+}
+
+.img-responsive {
+	width:1200px !important;
+	height:450px !important;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
