@@ -1,10 +1,10 @@
-/// Migrar
+/// Migrar - se hace en Persistencia
 dotnet ef migrations add "nombre que se le da a la migracion" --startup-project ..\ClinicaVeterinaria.Consola\ 
 
-///Actualizar Migracion
+///Actualizar Migracion - se hace en Persistencia
 dotnet ef database update --startup-project ..\ClinicaVeterinaria.Consola\
 
-/// borrar DB
+/// borrar DB (A revisar no funciona)
 USE master;
 GO
 ALTER DATABASE HospitalEnCasaData SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
