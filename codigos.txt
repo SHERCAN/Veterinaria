@@ -1,18 +1,44 @@
-/// Migrar
+/// Migrar - se hace en Persistencia
 dotnet ef migrations add "nombre que se le da a la migracion" --startup-project ..\ClinicaVeterinaria.Consola\ 
 
-///Actualizar Migracion
+///Actualizar Migracion - se hace en Persistencia
 dotnet ef database update --startup-project ..\ClinicaVeterinaria.Consola\
 
-/// borrar DB
+/// borrar DB (A revisar no funciona)
 USE master;
 GO
 ALTER DATABASE HospitalEnCasaData SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
 GO
 DROP DATABASE HospitalEnCasaData;
 GO
-///
+
+///Crear nueva pagina RAZOR
+dotnet new page -n Consulta -na ClinicaVeterinaria.App.Presentacion.Pages -o .\Pages\Page
+
+///Ayuda crear capas
+dotnet new -h
+
+///Crear capa de Dominio
+dotnet new classlib -o ClinicaVeterinaria.App.Dominio
+
+///Crear capa de Persistencia
+dotnet new classlib -o ClinicaVeterinaria.App.Persistencia
+
 ///Crear el proyecto de paginas JsonWebTokens
 dotnet new webapp -o ClinicaVeterinaria.App.Presentacion
-///Crear nueva pagina Web dentro de la carpeta PaginasProyecto
-dotnet new page -n MenuUsurario -na ClinicaVeterinaria.App.Presentacion.Pages -o .\Pages\PaginasProyecto
+
+///añadir referencia a otros proyectos()
+dotnet add reference ..\ClinicaVeterinaria.Consola\
+
+///frontend añadir referencias a dominio y persistencia 
+dotnet add reference ..\web.App.Dominio\
+
+///Frontend ref a Persistencia, se crean 2 plantillas Startup.cs y Program.cs
+///Frontend Startup - implementar servicio de persistencia en frontend en metodo ConfigureServices linea 24-25 (public void ConfigureServices(IServiceCollection services))
+ services.AddSingleton<IRepositorioSaludos, RepositorioSaludosMemoria>();
+ 
+ ///
+
+
+
+
