@@ -11,8 +11,32 @@ ALTER DATABASE HospitalEnCasaData SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
 GO
 DROP DATABASE HospitalEnCasaData;
 GO
-///
-///Crear el proyecto de paginas JsonWebTokens
-dotnet new webapp -o ClinicaVeterinaria.App.Presentacion
+
 ///Crear nueva pagina Web dentro de la carpeta PaginasProyecto
 dotnet new page -n MenuUsurario -na ClinicaVeterinaria.App.Presentacion.Pages -o .\Pages\PaginasProyecto
+
+///Ayuda crear capas
+dotnet new -h
+
+///Crear capa de Dominio
+dotnet new classlib -o ClinicaVeterinaria.App.Dominio
+
+///Crear capa de Persistencia
+dotnet new classlib -o ClinicaVeterinaria.App.Persistencia
+
+///Crear el proyecto de paginas JsonWebTokens
+dotnet new webapp -o ClinicaVeterinaria.App.Presentacion
+
+///añadir referencia a otros proyectos()
+dotnet add reference ..\ClinicaVeterinaria.Consola\
+
+///frontend añadir referencias a dominio y persistencia 
+dotnet add reference ..\web.App.Dominio\
+
+///Frontend ref a Persistencia, se crean 2 plantillas Startup.cs y Program.cs
+///Frontend Startup - implementar servicio de persistencia en frontend en metodo ConfigureServices (public void ConfigureServices(IServiceCollection services))
+ services.AddSingleton<IRepositorioSaludos, RepositorioSaludosMemoria>();
+
+
+
+
