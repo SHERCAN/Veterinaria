@@ -1,3 +1,8 @@
+///comandos git
+git remote add origin https://github.com/AbelPuentesT/Prueba-front-end.git
+git branch -M main
+git push -u origin main
+
 /// Migrar - se hace en Persistencia
 dotnet ef migrations add "nombre que se le da a la migracion" --startup-project ..\ClinicaVeterinaria.Consola\ 
 
