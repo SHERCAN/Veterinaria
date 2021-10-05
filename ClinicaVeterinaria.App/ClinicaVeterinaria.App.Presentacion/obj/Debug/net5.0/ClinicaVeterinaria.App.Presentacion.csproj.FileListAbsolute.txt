@@ -102,3 +102,4 @@ C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVete
 C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\ref\ClinicaVeterinaria.App.Presentacion.dll
 C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\ClinicaVeterinaria.App.Presentacion.genruntimeconfig.cache
 C:\Users\Sofi\Documents\GitHub\V2\Veterinaria\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\ClinicaVeterinaria.App.Presentacion.csproj.CopyComplete
+G:\Mi unidad\PERSONALES\MINTIC\Programming\Cliclo3\ProyectoInPr\ClinicaVeterinaria.App\ClinicaVeterinaria.App.Presentacion\obj\Debug\net5.0\Razor\Pages\PaginasProyecto\IniciarSesion.cshtml.g.cs
