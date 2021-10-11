@@ -3,28 +3,39 @@
 @{}
 <form>
     <div class="form-group">
-        <label for="nombre">Nombre</label>
-        <input type="text" class="form-control" id="nombre" placeholder="Introduzca su nombre">
+        <label  class="col-sm-2">Tipo de usuario</label>
+        <select name ="lista"  asp-items="Html.GetEnumSelectList<tipo>()"></select>
     </div>
     <div class="form-group">
-        <label for="apellido">Apellido</label>
-        <input type="text" class="form-control" id="apellido" placeholder="Introduzca su apellido">
+        <label asp-for="usuario.Nombre">Nombre</label>
+        <input asp-for="usuario.Nombre" type="text" class="form-control" id="nombre" placeholder="Introduzca su nombre">
+        <span asp-validation-for="usuario.Nombre" class="text-danger"></span>
     </div>
     <div class="form-group">
-        <label for="cedula">Cédula</label>
-        <input type="text" class="form-control" id="cedula" placeholder="Introduzca su cédula">
+        <label asp-for="usuario.Apellido">Apellido</label>
+        <input asp-for="usuario.Apellido" type="text" class="form-control" id="apellido" placeholder="Introduzca su apellido">
+        <span asp-validation-for="usuario.Apellido" class="text-danger"></span>
     </div>
     <div class="form-group">
-        <label for="celular">Celular</label>
-        <input type="text" class="form-control" id="celular" placeholder="Introduzca su celular">
+        <label asp-for="usuario.Cedula">Cédula</label>
+        <input asp-for="usuario.Cedula" type="text" class="form-control" id="cedula" placeholder="Introduzca su cédula">
+        <span asp-validation-for="usuario.Cedula" class="text-danger"></span>
     </div>
     <div class="form-group">
-        <label for="direccion">Direccion</label>
-        <input type="text" class="form-control" id="direccion" placeholder="Introduzca su dirección">
+        <label asp-for="usuario.Celular">Celular</label>
+        <input asp-for="usuario.Celular"type="text" class="form-control" id="celular" placeholder="Introduzca su celular">
+        <span asp-validation-for="usuario.Celular" class="text-danger"></span>
     </div>
     <div class="form-group">
-        <label for="ciudad">Ciudad</label>
-        <input type="text" class="form-control" id="ciudad" placeholder="Introduzca su ciudad">
+        <label asp-for="usuario.Direccion">Direccion</label>
+        <input asp-for="usuario.Direccion" type="text" class="form-control" id="direccion" placeholder="Introduzca su dirección">
+        <span asp-validation-for="usuario.Direccion" class="text-danger"></span>
     </div>
-    <button type="submit" class="btn btn-primary" id="boton-registro">Submit</button>
+    <div class="form-group">
+        <label asp-for="usuario.Ciudad">Ciudad</label>
+        <input asp-for="usuario.Ciudad" type="text" class="form-control" id="ciudad" placeholder="Introduzca su ciudad">
+        <span asp-validation-for="usuario.Ciudad" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary" id="boton-registro">Guardar</button>
+    <a asp-page="./MenuUsurario" class="btn btn-primary">Cancelar</a>
 </form><br><br><br>
